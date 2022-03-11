@@ -1,0 +1,19 @@
+.logo {
+    background-color: black;
+    height: 7.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    color: white;
+    font-size: 3em;
+    padding-left: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-decoration: none;
+}
+
+.logo a:hover {
+    color: white;
+}

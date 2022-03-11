@@ -1,0 +1,16 @@
+.form {
+    background-color: white;
+    padding: 4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    margin-top: 3rem;
+    align-content: center;
+    width: 40em;
+    align-content: center;
+  }
+
+  .form input {
+      font-size: 1em;
+      width: 30em;
+
+  }
